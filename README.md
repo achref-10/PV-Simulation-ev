@@ -40,8 +40,4 @@ simulationpvBakoMotors.slx — Main Simulink model
 
 README.md — Project documentation
 
-🪫 Future Work
 
-Integrate with MPPT algorithm (Perturb & Observe)
-
-Connect to EV battery management simulation
